@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5de8305a29edd13638e6cb71"},"songName":"Mirrors","songArtistFullName":"Justin Timberlake","songAlbum":"The 20/20 Experience","songAmountFavourites":{"$numberInt":"0"},"_class":"com.csc301.songmicroservice.Song"}
+{"_id":{"$oid":"5de8309c29edd13638e6cb72"},"songName":"Follow Me","songArtistFullName":"Muse","songAlbum":"The 2nd Law","songAmountFavourites":{"$numberInt":"0"},"_class":"com.csc301.songmicroservice.Song"}
+{"_id":{"$oid":"5de830cd29edd13638e6cb73"},"songName":"Signs","songArtistFullName":"Drake","songAlbum":"Signs","songAmountFavourites":{"$numberInt":"0"},"_class":"com.csc301.songmicroservice.Song"}
+{"_id":{"$oid":"5de830f529edd13638e6cb74"},"songName":"Passionfruit","songArtistFullName":"Drake","songAlbum":"More Life","songAmountFavourites":{"$numberInt":"0"},"_class":"com.csc301.songmicroservice.Song"}
+{"_id":{"$oid":"5de8317a29edd13638e6cb75"},"songName":"Instant Crush","songArtistFullName":"Daft Punk","songAlbum":"Random Access Memory","songAmountFavourites":{"$numberInt":"0"},"_class":"com.csc301.songmicroservice.Song"}
